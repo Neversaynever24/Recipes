@@ -2,9 +2,15 @@ img {
   height: auto;
   width: 700px;
 }
+
 * {
   background-color: darksalmon;
 }
+
 li {
   font-weight: bold;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
 }
